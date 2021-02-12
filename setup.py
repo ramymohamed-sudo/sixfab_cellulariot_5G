@@ -7,7 +7,7 @@ with open("README.md",'r') as file:
     long_description = file.read()
 
 setup(
-    name = 'sixfab_cellulariot-5G',     # this should be unique = python package
+    name = 'sixfab_cellulariot_5G',     # this should be unique = python package
     version = "0.0.1",
     author = "Ramy Amer",
     author_email = 'ramy.mohamed@ibm.com',
